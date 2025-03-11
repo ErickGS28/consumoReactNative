@@ -1,0 +1,17 @@
+1.- Camel case = nombreDeMiVariable, nombreDeMiMetodo
+
+2.- Towe case = NombreDeMiClase
+
+3.- Snake case = nombre_de_mi_tabla, nombre_de_mi_columna
+
+4.- Screaming snake case = NOMBRE_DE_MI_CONSTANTE, NOMBRE_DE_MI_PROPIEDAD_DE_ENTORNO
+
+5.- Dot case = nombre.de.mi.archivo, nombre.de.mi.propiedad.de.entorno
+
+6.- Dash case = nombre-de-mi-api, direccion-de-mi-url
+
+7.- Train case = Nombre-Del-Encabezado
+
+8.- Flat case = nombredeloquesea
+
+9.- Upper case = NOMBREDELOQUESEA
